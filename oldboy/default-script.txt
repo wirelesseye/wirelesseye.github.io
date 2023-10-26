@@ -1,7 +1,7 @@
-< Where did you go? Are you with someone else?
-> I was talking to Mr. Majeo
-< Mr. Majeo? Count Monte Cristo?
-> There is no such person...
-< Oh Dea-su, how's life in the larger prison?
+< Where did you go? Are you talking to someone?
+> I was talking to an old man
+< An old man? The Count of Monte?
+> There is no one like that here...
+< How are you, Oh Dea-su? How's your life in the 'larger prison'?
 > Who are you?
-< Lonely Prince in the Tall Tower, don't forget me...^_^
+< A lonely prince trapped in a tall tower. Don't forget me, Princess Sashimi...^_^
